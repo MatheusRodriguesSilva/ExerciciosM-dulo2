@@ -1,0 +1,8 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Exercicios Modulo 2\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Exercicios Modulo 2\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Exercicios Modulo 2\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Exercicios Modulo 2\ExercicioEstoque\ExercicioEstoque\bin\Debug\ExercicioEstoque.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Exercicios Modulo 2\ExercicioEstoque\ExercicioEstoque\bin\Debug\ExercicioEstoque.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Exercicios Modulo 2\ExercicioEstoque\ExercicioEstoque\bin\Debug\ExercicioEstoque.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Exercicios Modulo 2\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Exercicios Modulo 2\ExercicioEstoque\ExercicioEstoque\obj\Debug\ExercicioEstoque.pdb
